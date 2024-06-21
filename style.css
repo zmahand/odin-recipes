@@ -1,0 +1,26 @@
+html {
+    background-color: brown;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: bold;
+    color: blueviolet;
+    background-color: aquamarine;
+}
+
+.link {
+    color: greenyellow;
+}
+
+.description {
+    color: cornflowerblue;
+}
+
+ul li {
+    color: yellow;
+}
+
+ol li {
+    color: cyan;
+}
